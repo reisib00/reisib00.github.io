@@ -165,7 +165,7 @@ section .title::after{
 /* home section */
 .home{
     display: flex;
-    background: url("img/pexels-muhammad-khairul-iddin-adnan-808510.jpg") no-repeat center;
+    background: url("pexels-muhammad-khairul-iddin-adnan-808510.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
